@@ -10,16 +10,15 @@ Para criação dos testes foi utilizado o Eclipse IDE, projeto com estrutura Mav
 
 * ***pageObjects***: Page Objects da página
 
-* ***Runner***:
+* ***Runner***: Runner para rodar o Cucumber
 
-* ***Steps***:
+* ***Steps***: Passos dos testes para preencher os formulários
 
-* ***Utils***:
+* ***Utils***: Utilitário de data
 
 ## A estrutura do pacote de resources é dividida em: 
 
-* ***Features***:
-
+* ***Features***: Arquivo feature com passo a passo utilizando Cucumber.
  
 ## Tecnologia utilizada 
 
