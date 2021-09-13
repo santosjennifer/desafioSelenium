@@ -14,7 +14,7 @@ Para criação dos testes foi utilizado o Eclipse IDE, projeto com estrutura Mav
 
 * ***Steps***: Passos dos testes para preencher os formulários
 
-* ***Utils***: Utilitário de data
+* ***Utils***: Utilitário para data
 
 ## A estrutura do pacote de resources é dividida em: 
 
@@ -27,9 +27,9 @@ Para criação dos testes foi utilizado o Eclipse IDE, projeto com estrutura Mav
 - Maven - Apache Maven 3.8.2
 - Eclipse IDE - 2021-06 (4.20.0)
 - Selenium - 3.141
-- Cucumber 6.11
+- Cucumber - Puglin para Eclipse	v1.0.0.202107150747
 
-**Observação:** O ChromeDriver.exe disponibilizado na pasta _drivers_ é compatível com a Versão 93.0.4577.63 do navegador Chrome.
+**Observação:** O _ChromeDriver.exe_ disponibilizado na pasta _drivers_ é compatível com a Versão 93.0.4577.63 do navegador Chrome.
 
 
 
