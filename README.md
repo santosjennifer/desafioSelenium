@@ -1,35 +1,32 @@
-# Objetivo
+# Objective
 
-Automação de testes com o Java, Selenium WebDriver e Cucumber utillizando Page Objects.
+Test automation with Java, Selenium WebDriver and Cucumber using Page Objects.
 
-Objetivo é automatizar uma rotina de sucesso preenchendo os formulários de cotação de seguro no site http://sampleapp.tricentis.com/101/app.php
+The purpose of the test is to validate an insurance quote scenario on the website: http://sampleapp.tricentis.com/101/app.php
 
-Para criação dos testes foi utilizado o Eclipse IDE, projeto com estrutura Maven.
+Using Eclipse IDE, project with Maven structure.
 
-## A estrutura do pacote de test é dividida em: 
+## The Test package structure is divided into:
 
-* ***pageObjects***: Page Objects da página
+* ***PageObjects***: page objects
+* ***Runner***: to run Cucumber
+* ***Steps***: steps to fill the form
+* ***Utils***: date utility
 
-* ***Runner***: Runner para rodar o Cucumber
+## The Resources package structure is divided into:
 
-* ***Steps***: Passos dos testes para preencher os formulários
-
-* ***Utils***: Utilitário para data
-
-## A estrutura do pacote de resources é dividida em: 
-
-* ***Features***: Arquivo feature com cenário do teste utilizando Cucumber.
+* ***Features***: Test scenario file using Cucumber.
  
-## Tecnologia utilizada 
+## Technology
 
 - Java 8
 - Java JDK 11
 - Maven - Apache Maven 3.8.2
 - Eclipse IDE - 2021-06 (4.20.0)
 - Selenium - 3.141
-- Cucumber - Puglin para Eclipse	v1.0.0.202107150747
+- Cucumber - Puglin for Eclipse	v1.0.0.202107150747
 
-**Observação:** O _ChromeDriver.exe_ disponibilizado na pasta _drivers_ é compatível com a Versão 101.0.4951.41 do navegador Chrome.
+**PS:** The _ChromeDriver.exe_ available in the _drivers_ folder is compatible with Version 101.0.4951.41 of the Chrome browser.
 
 
 
