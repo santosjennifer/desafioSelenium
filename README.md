@@ -1,8 +1,8 @@
 # Objetivo
 
-Desafio de automação de testes com o Selenium WebDriver e Cucumber utillizando Page Objects.
+Automação de testes com o Java, Selenium WebDriver e Cucumber utillizando Page Objects.
 
-Objetivo é automatizar uma rotina de sucesso preenchendo o formulário do site http://sampleapp.tricentis.com/101/app.php
+Objetivo é automatizar uma rotina de sucesso preenchendo os formulários de cotação de seguro no site http://sampleapp.tricentis.com/101/app.php
 
 Para criação dos testes foi utilizado o Eclipse IDE, projeto com estrutura Maven.
 
@@ -18,7 +18,7 @@ Para criação dos testes foi utilizado o Eclipse IDE, projeto com estrutura Mav
 
 ## A estrutura do pacote de resources é dividida em: 
 
-* ***Features***: Arquivo feature com passo a passo utilizando Cucumber.
+* ***Features***: Arquivo feature com cenário do teste utilizando Cucumber.
  
 ## Tecnologia utilizada 
 
@@ -29,7 +29,7 @@ Para criação dos testes foi utilizado o Eclipse IDE, projeto com estrutura Mav
 - Selenium - 3.141
 - Cucumber - Puglin para Eclipse	v1.0.0.202107150747
 
-**Observação:** O _ChromeDriver.exe_ disponibilizado na pasta _drivers_ é compatível com a Versão 93.0.4577.63 do navegador Chrome.
+**Observação:** O _ChromeDriver.exe_ disponibilizado na pasta _drivers_ é compatível com a Versão 101.0.4951.41 do navegador Chrome.
 
 
 
