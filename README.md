@@ -1,4 +1,4 @@
-# Test automation with Java, Selenium WebDriver and Cucumber using Page Objects.
+# Test automation with Java, Selenium WebDriver and Cucumber
 
 The purpose of the test is to validate an insurance quote scenario on the website: http://sampleapp.tricentis.com/101/app.php
 
