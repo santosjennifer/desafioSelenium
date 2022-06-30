@@ -1,6 +1,4 @@
-# Objective
-
-Test automation with Java, Selenium WebDriver and Cucumber using Page Objects.
+# Test automation with Java, Selenium WebDriver and Cucumber using Page Objects.
 
 The purpose of the test is to validate an insurance quote scenario on the website: http://sampleapp.tricentis.com/101/app.php
 
@@ -26,8 +24,10 @@ Using Eclipse IDE, project with Maven structure.
 - Selenium - 3.141
 - Cucumber - Puglin for Eclipse	v1.0.0.202107150747
 
-**PS:** The _ChromeDriver.exe_ available in the _drivers_ folder is compatible with Version 101.0.4951.41 of the Chrome browser.
+**PS:** The _ChromeDriver.exe_ available in the _drivers_ folder is compatible with Version 103.0.5060.53 of the Chrome browser.
 
+## Running the tests
 
+Run ```mvn test``` to run all tests.
 
 
